@@ -1,15 +1,15 @@
 
 <p align="center">
-  <h1>About me:</h1><br>
+  <h1>About me:</h1>
   <ul>
   <li><div>Recent graduate from Georgetown University 🎓</div></li>
   <li><div>Recent bootcamp graduate from Hackbright Academy 💻 </div></li>
   <li><div>Former climate change and butterfly researcher 🦋</div></li>
   <div>
    </ul>
-  Let's Connect! <a href="www.linkedin.com/in/erin-leeds">LinkedIn</a> 
   <br><br>
 </p>
+Let's connect! [LinkedIn](https://www.linkedin.com/in/erin-leeds/)
 <!--
 **erinleeds11/erinleeds11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
