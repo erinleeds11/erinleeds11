@@ -1,10 +1,12 @@
 
 <p align="center">
-  <h1>Erin Leeds</h1><br>
-  <div>Recent graduate from Georgetown University</div>
-  <img src-"https://studenthealth.georgetown.edu/wp-content/uploads/sites/68/2019/08/20110414-2-Campus_0142.jpg"/>
-  <div>Former climate change and butterfly researcher</div><br>
+  <h1>About me:</h1><br>
+  <ul>
+  <li><div>Recent graduate from Georgetown University</div></li>
+  <img src="https://studenthealth.georgetown.edu/wp-content/uploads/sites/68/2019/08/20110414-2-Campus_0142.jpg"/>
+  <li><div>Former climate change and butterfly researcher</div></li>
   <div>
+   </ul>
   Let's Connect! <a href="#">LinkedIn</a> 
   <br><br>
 </p>
