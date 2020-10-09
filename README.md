@@ -1,7 +1,8 @@
 
 <p align="center">
   <h1>Erin Leeds</h1><br>
-  <a href="#">LinkedIn</a> |
+  Former butterfly researcher at Georgetown University
+  Let's Connect <a href="#">LinkedIn</a> 
   <br><br>
 </p>
 <!--
