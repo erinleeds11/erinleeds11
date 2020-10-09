@@ -9,7 +9,7 @@
    </ul>
   <br><br>
 </p>
-Let's connect on [LinkedIn]!(https://www.linkedin.com/in/erin-leeds/)
+Let's connect on LinkedIn! (https://www.linkedin.com/in/erin-leeds/)
 <!--
 **erinleeds11/erinleeds11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
