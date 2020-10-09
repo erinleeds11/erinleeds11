@@ -7,7 +7,6 @@
   <li><div>Former climate change and butterfly researcher 🦋</div></li>
   <div>
    </ul>
-  <br><br>
 </p>
 Let's connect on LinkedIn! (https://www.linkedin.com/in/erin-leeds/)
 <!--
