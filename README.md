@@ -1,11 +1,8 @@
-### Erin Leeds 
+
 <p align="center">
   <h1>Erin Leeds</h1><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <a href="#">LinkedIn</a> |
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
 <!--
 **erinleeds11/erinleeds11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
